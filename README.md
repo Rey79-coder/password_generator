@@ -1,5 +1,6 @@
 # PASSWORD GENERATOR
  
+ This website generates secure passwords only. In order to get a secure password, it must be min 8 characters lenght. The first user's interaction is by clicking the Generate Password button. Then, the user answers a yes/no serie of questions. Finally, the user gets a secure password.
 
 CORE4
 Javascript core mind structure.
